@@ -4,7 +4,7 @@
 
 # 👋 About me
 Hi, I am Saikat, currently a Senior Researcher at the 
-[Research in Software Engineering (RiSE) group at Microsoft Research](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/). 
+[Research in Software Engineering (RiSE) group at Microsoft Research](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/), working towards [Trusted AI for Programmers](https://www.microsoft.com/en-us/research/project/trusted-ai-assisted-programming/). In particular, I am researching towards building AI assisted code generator with provable correctness guarantee w.r.t. certain specification from both programming languages and user intent. 
 Earlier, I graduated with Ph.D. in omputer Science from [Columbia University in the City of New York](https://cs.columbia.edu) advised by 
 [Professor Baishakhi Ray](rayb.info). I wrote my Ph.D. thesis on [Learning to Edit Code](http://saikatc.info/pdfs/Thesis.pdf).
 
