@@ -39,6 +39,8 @@ with research collaboration across Software Engineering, Machine Learning, Natur
 </p>
 
 # :loudspeaker: What's new
+- :bell: [February 2024] Release the [Official code for Invariant Ranker](https://github.com/microsoft/NeuralInvariantRanker). 
+- :bell: [December 2023] Our work on [Re-ranking Loop Invariants](https://aclanthology.org/2023.findings-emnlp.614.pdf) is published in EMNLP-findings 2023. 
 - :bell: [November 2022] Presented NatGen to FSE in Singapore. 
 - :bell: [September 2022] Joined RiSE team at Microsoft Research as Senior Resercher. 
 
